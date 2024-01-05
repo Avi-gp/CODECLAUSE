@@ -13,9 +13,9 @@ Task 2 :- Wine Quality Prediction Using Random Forest Classifier, Logistics Regr
 
 # Task 2 :- Recommendation System For Retail Stores :- 
 
-# Two Projects :-
+#       Two Projects :-
 
-#          a) Recommendation System For Retail Store : general retail store dataset
+# **        a) Recommendation System For Retail Store : general retail store dataset **
           
              x) User Based And Item Based Collaborative Filtering
              y) Content Based Recommendation
